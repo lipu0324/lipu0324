@@ -1,2 +1,3 @@
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lipu0324&theme=dracula)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lipu0324&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CCFF&width=435&lines=%E5%81%9A%E4%B8%80%E7%82%B9%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%B7%A5%E4%BD%9C)](https://git.io/typing-svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
